@@ -1,0 +1,4 @@
+*.pyc
+*.javac
+.vscode
+.idle
